@@ -8,4 +8,4 @@ Digital Image Processing
 * [27-07-2019 | โปรแกรมแปลงรูปภาพสีให้เป็นภาพสีขาวดำ - วิธี Global และ Adaptive Threshold](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-04-convert-image-to-bw.ipynb)
 * [27-07-2019 | Template matching](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-06-template-matching.ipynb)
 * [03-08-2019 | โปรแกรมการค้นหาใบหน้าด้วยวิธี Haar-Cascade Classifier](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/face-detection-haar-cascade.ipynb)
-
+* [10-08-2019 | โปรแกรมการค้นหาใบหน้าและการตรวจสอบใบหน้าบุคคล (Face Detection and Verification)](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-07-Face-Detection-and-Verification.ipynb)

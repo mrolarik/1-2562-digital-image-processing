@@ -7,5 +7,5 @@ Digital Image Processing
 * [20-07-2019 | ตัวอย่างโปรแกรมดาวน์โหลดรูปภาพจาก google | Downloading images from google website](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-02-download-image-from-google.ipynb)
 * [27-07-2019 | โปรแกรมแปลงรูปภาพสีให้เป็นภาพสีขาวดำ - วิธี Global และ Adaptive Threshold | Convert image into black and white image using Global and Adaptive threshold](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-04-convert-image-to-bw.ipynb)
 * [27-07-2019 | Template matching](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-06-template-matching.ipynb)
-* [03-08-2019 | โปรแกรมการค้นหาใบหน้าด้วยวิธี Haar-Cascade Classifier | Face Detection using Haar-Cascade Classifier](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/face-detection-haar-cascade.ipynb)
-* [10-08-2019 | โปรแกรมการค้นหาใบหน้าและการตรวจสอบใบหน้าบุคคล | Face Detection and Verification](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-07-Face-Detection-and-Verification.ipynb)
+* [03-08-2019 | โปรแกรมค้นหาใบหน้าด้วยวิธี Haar-Cascade Classifier | Face Detection using Haar-Cascade Classifier](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/face-detection-haar-cascade.ipynb)
+* [10-08-2019 | โปรแกรมค้นหาใบหน้าและการตรวจสอบใบหน้าบุคคล | Face Detection and Verification](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-07-Face-Detection-and-Verification.ipynb)

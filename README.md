@@ -1,5 +1,4 @@
-# 1-2562-digital-image-processing
-Digital Image Processing
+# Digital Image Processing | Semester 1/2562
 
 * [6/13-07-2019 | ตัวอย่างการเขียนโปรแกรมภาษา Python เพื่อเรียกใช้ข้อมูลตัวอย่างจาก google CoLab การแสดงรูปภาพตัวอย่างจากข้อมูล MNIST | Getting Started With Google Colab and use the MNIST dataset](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-6-and-13-Aug-2019.ipynb)
 * [20-07-2019 | ใช้ไลบรารี่ของ Pandas เพื่ออ่านข้อมูลชุด MNIST จาก google CoLab โดยข้อมูลเก็บแบบ csv file | Using Pandas library to read data from csv file](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-03-using-panda-load-mnist.ipynb)

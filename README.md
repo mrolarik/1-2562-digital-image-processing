@@ -10,7 +10,8 @@
 * [3-08-2019 | การซ่อนข้อความในรูปภาพ | Basic Image Steganography](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-08-image_steganography.ipynb)
 * [10-08-2019 | การค้นหาใบหน้าด้วยวิธี Haar-Cascade Classifier | Face Detection using Haar-Cascade Classifier](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/face-detection-haar-cascade.ipynb)
 * [10-08-2019 | การค้นหาใบหน้าด้วยวิธี MTCNN และเปลี่ยนใบหน้า FACE OFF | Face Detection using MTCNN and swap face images - FACE OFF](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-09_Face_Off.ipynb)
-* [1-09-2019 | การค้นหาใบหน้าและการตรวจสอบใบหน้าบุคคล | Face Detection and Verification](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-07-Face-Detection-and-Verification.ipynb)
+* [1-10-2019 | การค้นหาใบหน้าและการตรวจสอบใบหน้าบุคคล | Face Detection and Verification](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-07-Face-Detection-and-Verification.ipynb)
+* [8-10-2019 | Image Segmentation using HSV Color Space](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/Image_Segmentation_using_HSV_Color_Space.ipynb)
 
 # Examination | ข้อสอบ
 * [ข้อสอบเก็บคะแนนครั้งที่ 1 - 25 คะแนน](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/Exam_DIP_1_08_2019.ipynb)

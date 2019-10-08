@@ -13,6 +13,7 @@
 * [1-10-2019 | การค้นหาใบหน้าและการตรวจสอบใบหน้าบุคคล | Face Detection and Verification](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/dip-07-Face-Detection-and-Verification.ipynb)
 * [8-10-2019 | การแยกวัตถุออกจากรูปภาพโดยใช้ค่าสีแบบ HSV | Image Segmentation using HSV Color Space](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/Image_Segmentation_using_HSV_Color_Space.ipynb)
 * [15-10-2019 | การค้นหาวัตถุโดยใช้ YOLO อัลกอริธึม | YOLO Object Detection](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/YOLO-object-detection.ipynb)
+* [22-10-2019 | การค้นหาใบหน้าโดยใช้ YOLO อัลกอริธีม | YOLO Face Detector](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/YOLO_face_detector.ipynb) 
 
 # Examination | ข้อสอบ
 * [ข้อสอบเก็บคะแนนครั้งที่ 1 - 25 คะแนน](https://github.com/mrolarik/1-2562-digital-image-processing/blob/master/Exam_DIP_1_08_2019.ipynb)
